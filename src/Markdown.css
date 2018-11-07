@@ -1,0 +1,30 @@
+.title{
+  width:50%;
+  margin: 10px auto;
+  text-shadow:
+		-0.5px -0.5px 0 white,
+		0.5px -0.5px 0 white,
+		-.5px .5px 0 white,
+		.5px .5px 0 white;
+}
+
+#editor{
+  padding:10px;
+}
+
+img{
+  width:25%;
+  max-width:500px;
+}
+
+#preview{
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  width:80%;
+  height:auto;
+  min-height:40vh;
+  margin:5% auto 5% auto;
+  padding:5px 15px 5px 15px;
+  text-align: left;
+}
